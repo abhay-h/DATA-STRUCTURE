@@ -84,4 +84,6 @@ int main() {
 
   printf("\nAfter popping out\n");
   printStack(s);
+
+  for(push(s, 1); push)
 }
